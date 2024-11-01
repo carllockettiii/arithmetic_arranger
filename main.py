@@ -6,7 +6,7 @@ def arithmetic_arranger(problems, show_answers=False):
         exit()
     problems = input_problems.split(",")
 
-    #print(problems)
+    print(problems)
     return problems
 
 spaces = '  '
